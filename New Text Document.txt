@@ -1,0 +1,21 @@
+~Šta radi Git Pull opcija?
+Služi da povucemo sve promjene koje su drugi clanovi tima napravili.
+
+~Šta radi Git Clone opcija? 
+Ona kopira postojeci git repozitorijum,npr projekat kojem zelimo nesto da doprinesemo.
+
+~Napravili ste izmjenu na fajlu ispit.c i želite da te izmjene vide ostali clanovi tima. Šta cete
+uraditi? 
+Commit->commit and push
+
+Šta radi Git Checkout opcija?
+Šta je HEAD, a šta Master kod Git-a?
+Šta je branch (grana)?
+
+~Koje korake treba uraditi da izmjene koda budu dostupne drugim clanovima tima upotrebom
+Git-a?
+Commit->commit and push
+
+~Šta radi Git Commit opcija?
+Kada napravimo izmjene u nekom fajlu i zelimo da te izmjene vide i drugi clanovi tima,idemo na commit
+->commit and push,a da samo mi vidimmo promjene idemo commit->commit.
